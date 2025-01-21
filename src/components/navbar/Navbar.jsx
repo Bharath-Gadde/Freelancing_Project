@@ -23,7 +23,7 @@ const navbar = () => {
 
  const currentUser = {
   id:1,
-  username:"john Doe",
+  username:"Dharma",
   isSeller:true
  }
 
